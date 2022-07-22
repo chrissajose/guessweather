@@ -3,6 +3,10 @@
 This application is used to guess the weather of the location you are currently at. Once you 'Allow' or 'Deny' Location it will automatically detect the location of your pc via using Geo Location API and guess whether the it is summer or winter and give similar output regarding the same.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+To run this file use the below link ⬇️
+
+https://guessweather.netlify.app/
+
 ## Available Scripts
 
 In the project directory, you can run:
