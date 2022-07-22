@@ -1,5 +1,4 @@
-# Getting Started with Create React App
-Guess Weather 
+# Guessing Weather 
 
 This application is used to guess the weather of the location you are currently at. Once you 'Allow' or 'Deny' Location it will automatically detect the location of your pc via using Geo Location API and guess whether the it is summer or winter and give similar output regarding the same.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
